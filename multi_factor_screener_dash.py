@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-pip install dash pandas yfinance plotly
-
 import pandas as pd
 import numpy as np
 import yfinance as yf
