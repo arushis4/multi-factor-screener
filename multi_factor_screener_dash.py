@@ -219,6 +219,8 @@ if __name__ == '__main__':
 # For deployment
 server = app.server
 
+"""
 # Additions
 *   A way to add more advanced analysis
 *   Aesthetics & app like experience
+"""
